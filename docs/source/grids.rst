@@ -21,7 +21,7 @@ US, Canadian, French and New Zealand
 Switzerland
 --------------------------------------------------------------------------------
 
-Background in ticket `#145 <https://github.com/OSGeo/proj.4/issues/145>`__
+Background in ticket `#145 <https://github.com/SocialExplorerFork/proj.4/issues/145>`__
 
 We basically have two shift grids available. An official here:
 
@@ -40,10 +40,10 @@ HARN
 With the support of `i-cubed <http://www.i-cubed.com>`__, Frank Warmerdam has
 written tools to translate the HPGN grids from NOAA/NGS from ``.los/.las`` format
 into NTv2 format for convenient use with PROJ.4.  This project included
-implementing a `.los/.las reader <https://github.com/OSGeo/gdal/tree/trunk/gdal/frmts/raw/loslasdataset.cpp>`__
-for GDAL, and an `NTv2 reader/writer <https://github.com/OSGeo/gdal/tree/trunk/gdal/frmts/raw/ntv2dataset.cpp>`__.
+implementing a `.los/.las reader <https://github.com/SocialExplorerFork/gdal/tree/trunk/gdal/frmts/raw/loslasdataset.cpp>`__
+for GDAL, and an `NTv2 reader/writer <https://github.com/SocialExplorerFork/gdal/tree/trunk/gdal/frmts/raw/ntv2dataset.cpp>`__.
 Also, a script to do the bulk translation was implemented in
-https://github.com/OSGeo/gdal/tree/trunk/gdal/swig/python/samples/loslas2ntv2.py.
+https://github.com/SocialExplorerFork/gdal/tree/trunk/gdal/swig/python/samples/loslas2ntv2.py.
 The command to do the translation was:
 
 ::

@@ -32,9 +32,9 @@
 
 2015-09-06 Even Rouault <even.rouault@spatialys.com>
 	* re-add proj_def.dat which was missing from source distribution
-	https://github.com/OSGeo/proj.4/issues/274
-	https://github.com/OSGeo/proj.4/issues/296 and
-	https://github.com/OSGeo/proj.4/issues/297
+	https://github.com/SocialExplorerFork/proj.4/issues/274
+	https://github.com/SocialExplorerFork/proj.4/issues/296 and
+	https://github.com/SocialExplorerFork/proj.4/issues/297
 
 
 2015-07-27 Even Rouault <even.rouault@spatialys.com>
@@ -46,11 +46,11 @@
 2015-06-01 Charles Karney <https://github.com/cffk>
 	Make PJ_aeqd.c use geodesics for inverse and forward projection
 	modification so that the geodesic structure is not global
-	https://github.com/OSGeo/proj.4/pull/281
+	https://github.com/SocialExplorerFork/proj.4/pull/281
 
 2015-05-25 Elliott Sales de Andrade <https://github.com/QuLogic>
 	* : Fix inverse stereo projection on an ellipsoid
-	https://github.com/OSGeo/proj.4/pull/277
+	https://github.com/SocialExplorerFork/proj.4/pull/277
 
 2015-02-21 Even Rouault <even.rouault@spatialys.com>
 	* nad/epsg: regenerate nad/epsg with GDAL r28536 to avoid

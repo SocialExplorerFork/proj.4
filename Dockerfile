@@ -28,7 +28,7 @@ RUN mkdir /vdatum \
 
 RUN pip install Sphinx sphinx_bootstrap_theme rst2pdf --upgrade
 
-RUN git clone https://github.com/OSGeo/proj.4.git \
+RUN git clone https://github.com/SocialExplorerFork/proj.4.git \
     && cd proj.4 \
     && ./autogen.sh \
     && ./configure --prefix=/usr \

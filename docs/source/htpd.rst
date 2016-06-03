@@ -42,7 +42,7 @@ Getting crs2crs2grid.py
 --------------------------------------------------------------------------------
 
 The `crs2crs2grid.py` script can be found at
-https://github.com/OSGeo/gdal/tree/trunk/gdal/swig/python/samples/crs2crs2grid.py
+https://github.com/SocialExplorerFork/gdal/tree/trunk/gdal/swig/python/samples/crs2crs2grid.py
 
 It depends on having the GDAL Python bindings operational.  If they are not
 available you will get an error something like the following:

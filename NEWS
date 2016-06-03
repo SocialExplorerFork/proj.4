@@ -2,7 +2,7 @@
 -------------------
 
  o proj_def.dat was missing from source distribution
-   see https://github.com/OSGeo/proj.4/issues/274 for more detail
+   see https://github.com/SocialExplorerFork/proj.4/issues/274 for more detail
 
  o Update Geodesic library from GeographicLib
 

@@ -133,7 +133,7 @@ html_theme_options = {
     # an arbitrary url.
     'navbar_links': [
         ("Download", "download"),
-        ("GitHub", "https://github.com/OSGeo/proj.4", True),
+        ("GitHub", "https://github.com/SocialExplorerFork/proj.4", True),
     ],
 
     # Render the next and previous page links in navbar. (Default: true)
